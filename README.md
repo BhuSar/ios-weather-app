@@ -33,12 +33,16 @@ This app provides real-time weather, clean UI animations, a modern MVVM architec
 
 ⸻
 
-📱 Screenshots (Add these later)
+📱 Screenshots 
 
 You can upload images directly into your README:
-	•	Neon Home Screen
-	•	Temperature Display
-	•	Search Interaction
+	•	Neon Home Screen  <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-11-30 at 12 58 47" src="https://github.com/user-attachments/assets/60b3c4b2-7b29-4cdf-ad58-489b790a5dff" />
+
+	•	Temperature Display  <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-11-30 at 13 11 15" src="https://github.com/user-attachments/assets/fc468b94-f45b-456e-9139-e3a2e3c50302" />
+
+	•	Search Interaction  <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-11-30 at 13 13 53" src="https://github.com/user-attachments/assets/8329f420-a08a-4326-b6f7-24133b517e99" />
+
+
 
 ⸻
 
